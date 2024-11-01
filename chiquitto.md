@@ -16,6 +16,7 @@ pip install tensorflow
 pip install pandas
 pip install scikit-learn
 python -m pip install viennarna
+pip install tensorflow[and-cuda]
 ```
 
 Training a CNN:
